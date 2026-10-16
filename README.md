@@ -1,0 +1,1 @@
+# Handwriting_Recognition_in_Digitized_Historical_Documents
